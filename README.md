@@ -33,6 +33,7 @@ Comprehensive evaluation benchmarks for embodied AI tasks, from manipulation to 
 - [CALVIN](https://github.com/mees/calvin) - A benchmark for language-conditioned long-horizon robot manipulation, featuring 1000+ hours of teleoperated demonstrations.
 - [LIBERO](https://libero-project.github.io/) - A benchmark for lifelong learning in robotics, designed to evaluate continual learning and task composition capabilities.
 - [BEHAVIOR-1K](https://behavior.stanford.edu/behavior-1k) - A comprehensive benchmark for household activities with 1,000 activities in realistic simulated environments.
+- [EmbodiedMemory-Bench](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/) - Evaluates memory-dependent long-horizon embodied interaction through 2,554 AI2-THOR episodes covering visual recall, dynamic state tracking, interaction outcomes, and experience generalization.
 
 ### Vision-Language-Action (VLA) Benchmarks
 
